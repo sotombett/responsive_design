@@ -1,4 +1,8 @@
 
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
 /* Адаптивный контейнер */
 .container {
     width: 100%;
@@ -221,6 +225,7 @@ html {
     color: #f7fafc;
     padding: 2.5rem 0;
     text-align: center;
+    margin-top: 4rem;
 }
 
 /* Утилитарные классы для отступов */
